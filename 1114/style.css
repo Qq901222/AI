@@ -1,0 +1,29 @@
+@charset "utf-8";
+.container header {
+	background-color: #E9C6C7;
+}
+.container header nav {
+	background-color: #E9C6C7;
+}
+.container .banner {
+	background-image: url(images/2.jpg);
+}
+.container #contact {
+	background-color: #EAAFB0;
+}
+.container .copyright {
+	background-color: #EED5D5;
+}
+
+
+
+.container #hero {
+	background-image: url(images/b.jpg);
+}
+.container #about {
+	background-image: -webkit-linear-gradient(270deg,rgba(231,180,121,1.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(231,180,121,1.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(231,180,121,1.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(231,180,121,1.00) 0%,rgba(255,255,255,1.00) 100.00%);
+	color: #5D5549;
+}
